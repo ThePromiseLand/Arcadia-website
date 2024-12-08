@@ -1,1 +1,1 @@
-console.log('Welcome to Arcadia!');
+console.log("Welcome to Arcadia! Inspiring global change through innovation and sustainability.");
